@@ -1,0 +1,15 @@
+-,Week 1,Week 2,Week 3,Week 4,Week 5,Week 6,,,
+lucky,LUCKY vs. LUKE,LUCKY vs. LARRY,LUCKY vs. LUCILLE,LUCKY vs. LUKE,LUCKY vs. LARRY,LUCKY vs. LUCILLE,,,
+lucille,LUCILLE vs. LARRY,LUCILLE vs. LUKE,LUCILLE vs. LUCKY,LUCILLE vs. LARRY,LUCILLE vs. LUKE,LUCILLE vs. LUCKY,,,
+larry,LARRY vs. LUCILLE,LARRY vs. LUCKY,LARRY vs. LUKE,LARRY vs. LUCILLE,LARRY vs. LUCKY,LARRY vs. LUKE,,,
+luke,LUKE vs. LUCKY,LUKE vs. LUCILLE,LUKE vs. LARRY,LUKE vs. LUCKY,LUKE vs. LUCILLE,LUKE vs. LARRY,,,
+-,Week 1,Week 2,Week 3,Week 4,Week 5,Week 6,Week 7,Week 8,Week 9
+a,A vs. D,A vs. C,A vs. B,A vs. D,A vs. C,A vs. B,A vs. D,A vs. C,A vs. B
+b,B vs. C,B vs. D,B vs. A,B vs. C,B vs. D,B vs. A,B vs. C,B vs. D,B vs. A
+c,C vs. B,C vs. A,C vs. D,C vs. B,C vs. A,C vs. D,C vs. B,C vs. A,C vs. D
+d,D vs. A,D vs. B,D vs. C,D vs. A,D vs. B,D vs. C,D vs. A,D vs. B,D vs. C
+-,Week 1,Week 2,Week 3,Week 4,Week 5,Week 6,Week 7,,
+Dog,DOG vs. BIRD,DOG vs. MOUSE,DOG vs. CAT,DOG vs. BIRD,DOG vs. MOUSE,DOG vs. CAT,DOG vs. BIRD,,
+Cat,CAT vs. MOUSE,CAT vs. BIRD,CAT vs. DOG,CAT vs. MOUSE,CAT vs. BIRD,CAT vs. DOG,CAT vs. MOUSE,,
+Mouse,MOUSE vs. CAT,MOUSE vs. DOG,MOUSE vs. BIRD,MOUSE vs. CAT,MOUSE vs. DOG,MOUSE vs. BIRD,MOUSE vs. CAT,,
+Bird,BIRD vs. DOG,BIRD vs. CAT,BIRD vs. MOUSE,BIRD vs. DOG,BIRD vs. CAT,BIRD vs. MOUSE,BIRD vs. DOG,,
